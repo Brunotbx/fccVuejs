@@ -1,0 +1,27 @@
+
+:root {
+  --color-brand: #A90637;
+  --color-brand-secondary: #3D4952;
+  --color-brand-smooth: #a906378f;
+  --color-background-light: #fafafa;
+  --color-background-dark: #555;
+  --color-text-dark: #555;
+  --color-text-light: #fafafa;
+  --border-default :#222;
+  --disabled-default: #a906378f;
+  --shadow-smooth: #c1c1c1;
+  --shadow: #0000008c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: Inter, Roboto, sans-serif;
+}
